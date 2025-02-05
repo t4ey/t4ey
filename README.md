@@ -4,7 +4,7 @@
 <h2>Project Experiences🖥</h2>
 
 - <b> Web Apps: Creating a Web App for a Local Store Using Node.js HTML, CSS</b>
-  - [Web App for the OVA Store]([https://github.com/joeljjoseph1998/osticket-prereqs](https://github.com/t4ey/itec_customers))
+  - [Web App for the OVA Store](https://github.com/t4ey/itec_customers)
 
 - <b>Flutter with Firebase projects</b>
   - [An Android App Using dart, Flutter using firebase communicating with Raspberry PI that controls IoT Devices](https://github.com/t4ey/Final_Project_Domotic)
